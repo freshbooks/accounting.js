@@ -1,0 +1,28 @@
+{
+  "name": "freshbooks-accounting.js",
+  "main": "accounting.js",
+  "version": "0.3.3",
+  "homepage": "https://github.com/freshbooks/accounting.js",
+  "authors": [
+    "Mark Story <markstory@freshbooks.com>",
+    "Open Exchange Rates <info@openxchangerates.org> (https://openexchangerates.org)",
+    "Joss Crowcroft <josscrowcroft@gmail.com> (http://www.josscrowcroft.com)"
+  ],
+  "description": "number, money and currency formatting library. Forked from openxchangerates.org.",
+  "keywords": [
+    "accounting",
+    "number",
+    "money",
+    "currency",
+    "format",
+    "utilities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
