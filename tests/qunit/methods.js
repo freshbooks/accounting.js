@@ -14,6 +14,11 @@ $(document).ready(function() {
 		accounting.settings.number.decimal = '.';
 	});
 
+	test('accounting.unformat() with currency name containing .', function() {
+		equals(accounting.unformat('Bs.123.56'), 123.56, 'Can unformat Bs.');
+		equals(accounting.unformat('Rs. 123.56'), 123.56, 'Can unformat Rs.');
+	});
+
 	test("accounting.toFixed()", function() {
 		equals(accounting.toFixed(54321, 5), "54321.00000", 'Performs basic float zero-padding');
 		equals(accounting.toFixed(0.615, 2), "0.62", 'Rounds 0.615 to "0.62" instead of "0.61"');
