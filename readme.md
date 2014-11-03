@@ -4,14 +4,7 @@ Visit the plugin homepage for demos and documentation: **http://openexchangerate
 
 Please checkout or download the latest stable tag before using in production. [Bug reports](https://github.com/openexchangerates/accounting.js/issues) and pull requests are welcome.
 
-Maintained by [Open Exchange Rates](https://openexchangerates.org "Free reliable exchange rates/currency conversion data API") and originally by [@josscrowcroft](http://twitter.com/josscrowcroft) and other [contributors](https://github.com/openexchangerates/accounting.js/contributors).
-
----
-
-### Works great with:
-
-* **[money.js](http://openexchangerates.github.com/money.js "JavaScript and NodeJS Currency Conversion Library")** - a tiny (1kb) standalone JavaScript currency conversion library, for web & nodeJS
-* **[Open Exchange Rates](https://openexchangerates.org "realtime and historical exchange rates/currency conversion data API")** - the free currency conversion data API
+Maintained by [FreshBooks](http://freshbooks.com) and originally by [@josscrowcroft](http://twitter.com/josscrowcroft) and other [contributors](https://github.com/freshbooks/accounting.js/contributors).
 
 ---
 
