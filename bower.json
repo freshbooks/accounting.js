@@ -1,7 +1,7 @@
 {
   "name": "freshbooks-accounting.js",
   "main": "accounting.js",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "homepage": "https://github.com/freshbooks/accounting.js",
   "authors": [
     "Mark Story <markstory@freshbooks.com>",
