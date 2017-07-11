@@ -1,15 +1,27 @@
 {
-	"name" : "accounting",
-	"description" : "number, money and currency formatting library",
-	"homepage": "https://github.com/freshbooks/accounting.js",
-	"keywords" : ["accounting", "number", "money", "currency", "format", "utilities", "finance", "exchange"],
-	"author": "Open Exchange Rates <info@openexchangerates.org> (https://www.openexchangerates.org)",
-	"contributors" : [
-		"Open Exchange Rates <info@openxchangerates.org> (https://openexchangerates.org)",
-		"Joss Crowcroft <josscrowcroft@gmail.com> (http://www.josscrowcroft.com)"
-	],
-	"dependencies" : [],
-	"repository" : {"type": "git", "url": "git://github.com/freshbooks/accounting.js.git"},
-	"main" : "accounting.js",
-	"version" : "0.4.1"
+  "name": "freshbooks-accounting",
+  "description": "number, money and currency formatting library",
+  "homepage": "https://github.com/freshbooks/accounting.js",
+  "keywords": [
+    "accounting",
+    "number",
+    "money",
+    "currency",
+    "format",
+    "utilities",
+    "finance",
+    "exchange"
+  ],
+  "author": "Open Exchange Rates <info@openexchangerates.org> (https://www.openexchangerates.org)",
+  "contributors": [
+    "Open Exchange Rates <info@openxchangerates.org> (https://openexchangerates.org)",
+    "Joss Crowcroft <josscrowcroft@gmail.com> (http://www.josscrowcroft.com)"
+  ],
+  "dependencies": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/freshbooks/accounting.js.git"
+  },
+  "main": "accounting.js",
+  "version": "0.4.1"
 }
